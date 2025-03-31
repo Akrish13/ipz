@@ -10,7 +10,7 @@ int main(int argc, char *argv[])
 {
     QCoreApplication e(argc, argv);
 double a,b,c,z1,z2,z3;
-int f = 1;
+int f = 151;
 
 cin >>z1 >>z2 >>z3;
 cout <<"\nz1=" <<z1;
