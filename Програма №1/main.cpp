@@ -1,4 +1,4 @@
-/* Нелепенко О.В. Лаб роб №4 завдання 1 */
+/* Нелепенко О.В. Лаб роб №4 завдання 1 egwgwegwegwegwegwdfwdfdsgsdgdweg*/
 #include <QtCore/QCoreApplication>
 #include <iostream>
 #include <string>
@@ -55,9 +55,12 @@ else if (z3>z2 && z3>z1)
     {
         cout<<"\nz2="<<z2;
         cout<<"\nmin="<<z1;
+        cout << "\nz2=" << z2;
+       
     }
 }
 
 
     return e.exec();
 }
+/* git efe*/
