@@ -10,6 +10,8 @@ int main(int argc, char *argv[])
 {
     QCoreApplication e(argc, argv);
 double a,b,c,z1,z2,z3;
+int f = 3;
+
 cin >>z1 >>z2 >>z3;
 cout <<"\nz1=" <<z1;
 cout <<"\nz2=" <<z2;
@@ -56,6 +58,7 @@ else if (z3>z2 && z3>z1)
         cout<<"\nz2="<<z2;
         cout<<"\nmin="<<z1;
     }
+
 }
 
 
