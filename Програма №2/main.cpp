@@ -59,7 +59,7 @@ int main(int argc, char *argv[])
         cout<<"\nb="<<b;
         cout<<"\nc="<<c << "\n";
         cout << a << "x^2+(" << b << "x)+(" << c <<")=0" << endl;
-        if (a != 0)
+        if (a != 0 & a=10)
     {
         kw(a, b, c);
     }
